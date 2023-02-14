@@ -2,7 +2,7 @@
 This extracts the result of a when2meet link
 
 ## Before Usage
-- Change the url link of the given main.py file
+- Change the url link of the given When2Meet_Crawl.py file
 
 ## How to use
 1. Install Chrome
