@@ -12,9 +12,9 @@ This extracts the result of a when2meet link
 4. Change Directory
 `cd git`
 5. Use Git Clone
-`git clone `
+`git clone https://github.com/haba6030/When2Meet-Crawler.git`
 7. Download Library
-`cd Instagram-Image-Crawling`
+`cd When2Meet-Crawler`
 `pip install -r requirements.txt`
 9. Use the program
 `python main.py` 
