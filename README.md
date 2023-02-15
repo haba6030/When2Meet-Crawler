@@ -1,5 +1,6 @@
 # When2Meet-Crawler
 This extracts the result of a when2meet link
+웬투밋에 기록된 날짜 별 가능 인원을 추출하여 csv파일로 작성해주는 코드입니다.
 
 ## Before Usage
 - Change the url link of the given main.py file
