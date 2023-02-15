@@ -17,6 +17,6 @@ This extracts the result of a when2meet link
 `cd When2Meet-Crawler`  
 `pip install -r requirements.txt`
 7. Use the program  
-`python When2Meet_Crawl.py` 
+`python main.py` 
 
 then the csv file will be saved in the directory
