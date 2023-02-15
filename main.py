@@ -78,7 +78,7 @@ def getResults(driver) :
     new_dict = {}
 
     for key in avbl_dict.keys():
-        print(key)
+        #print(key)
         day = key[:3]
         month = key[3:7]
         year = key[7:12]
